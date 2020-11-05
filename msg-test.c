@@ -4,7 +4,7 @@
 #include <fcntl.h>
 #include <stdio.h>
 #include "msg.h"
-#include "ct/ct.h"
+#include "ct.h"
 
 void
 cttestset()
